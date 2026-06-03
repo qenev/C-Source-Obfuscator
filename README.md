@@ -28,8 +28,3 @@ cd obfuscator
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
 MIT License. See `LICENSE` for details.
-
-<!-- Refactor error messages -->
-<!-- Refactor parameters -->
-<!-- Clean up error messages -->
-<!-- Document logic flow -->
